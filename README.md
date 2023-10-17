@@ -8,10 +8,10 @@ You are developing an application that helps users manage and control various el
 - Refrigerator - Represents a refrigerator device that requires a power source. It has the startCooling() method.<br>
 - SmartphoneCharger - Represents a smartphone charger that needs to be plugged in for charging. It has the chargePhone() method.<br>
 
-# Target Object:<br>
+# Target Object:
 - PowerOutlet - Represents a standard power outlet with a common interface for plugging in devices. It defines the plugIn() method as the target method.<br>
 
-# Adapter Objects:<br>
+# Adapter Objects:
 - LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the PowerOutlet interface, translating plugIn() to charge().<br>
 - RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().<br>
 - SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone()<br>
