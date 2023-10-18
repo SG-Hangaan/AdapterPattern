@@ -24,3 +24,4 @@ You are developing an application that helps users manage and control various el
 
 
 # UML Class Diagram
+![AdaptPattern_Hangaan](https://github.com/SG-Hangaan/AdapterPattern/assets/127215110/80031fa9-8a21-4fe9-be64-967c615711cc)
