@@ -18,7 +18,9 @@ You are developing an application that helps users manage and control various el
 
 # Implementation of Adapter Pattern
 
+![image](https://github.com/SG-Hangaan/AdapterPattern/assets/127215110/ae673e5d-1356-40d8-a78d-2dce9ae56d05)
 
+![image](https://github.com/SG-Hangaan/AdapterPattern/assets/127215110/232f998b-5149-4b65-bc7d-a0604fbf1f10)
 
 
 # UML Class Diagram
